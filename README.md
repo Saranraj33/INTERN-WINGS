@@ -1,6 +1,6 @@
 # Web Development Tasks
 
-## Task 1: Landing Page<a href="https://github.com/Saranraj33/INTERN-WINGS/tree/main/webdevelopment/Task1">#</a>
+## Task 1: <a href="https://github.com/Saranraj33/INTERN-WINGS/tree/main/webdevelopment/Task1">Landing Page</a>
 
 - Creativity and Design
 - Responsiveness
@@ -8,7 +8,7 @@
 - Overall User Experience
 
 
-## Task 2: Tribute Page
+## Task 2: <a href="https://github.com/Saranraj33/INTERN-WINGS/tree/main/webdevelopment/Task2">Tribute Page</a>
 
 - Content Presentation
 - Visual Design
@@ -18,7 +18,7 @@
 
 
 
-## Task 5: Simple Calculating using HTML, CSS, JavaScript
+## Task 5: <a href="https://github.com/Saranraj33/INTERN-WINGS/tree/main/webdevelopment/Task5">Simple Calculator</a>
 
 - Functionality
 - User Interface
